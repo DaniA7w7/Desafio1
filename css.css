@@ -1,0 +1,19 @@
+
+*{
+    text-align: center;
+}
+
+#body{
+    background-color: gray;
+}
+
+.article{
+    border-radius: 25px;
+    border-color: black;
+    background: radial-gradient(circle at center, white, grey);
+}
+
+article{
+    display: inline;
+}
+
